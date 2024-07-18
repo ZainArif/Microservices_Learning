@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\study\\Microservices\\Microservices_Learning\\Mango\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A360911E-FE18-407D-BB3C-7CB14AED2B1A}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|d:\\study\\microservices\\microservices_learning\\mango\\mango.services.authapi\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A360911E-FE18-407D-BB3C-7CB14AED2B1A}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A360911E-FE18-407D-BB3C-7CB14AED2B1A}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|d:\\study\\microservices\\microservices_learning\\mango\\mango.services.authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A360911E-FE18-407D-BB3C-7CB14AED2B1A}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A360911E-FE18-407D-BB3C-7CB14AED2B1A}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|d:\\study\\microservices\\microservices_learning\\mango\\mango.services.authapi\\controllers\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A360911E-FE18-407D-BB3C-7CB14AED2B1A}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\controllers\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A360911E-FE18-407D-BB3C-7CB14AED2B1A}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|d:\\study\\microservices\\microservices_learning\\mango\\mango.services.authapi\\service\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A360911E-FE18-407D-BB3C-7CB14AED2B1A}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\service\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A360911E-FE18-407D-BB3C-7CB14AED2B1A}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|d:\\study\\microservices\\microservices_learning\\mango\\mango.services.authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A360911E-FE18-407D-BB3C-7CB14AED2B1A}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A360911E-FE18-407D-BB3C-7CB14AED2B1A}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|d:\\study\\microservices\\microservices_learning\\mango\\mango.services.authapi\\models\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A360911E-FE18-407D-BB3C-7CB14AED2B1A}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\models\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A360911E-FE18-407D-BB3C-7CB14AED2B1A}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|d:\\study\\microservices\\microservices_learning\\mango\\mango.services.authapi\\models\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A360911E-FE18-407D-BB3C-7CB14AED2B1A}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\models\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A360911E-FE18-407D-BB3C-7CB14AED2B1A}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|d:\\study\\microservices\\microservices_learning\\mango\\mango.services.authapi\\models\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A360911E-FE18-407D-BB3C-7CB14AED2B1A}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\models\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A360911E-FE18-407D-BB3C-7CB14AED2B1A}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|d:\\study\\microservices\\microservices_learning\\mango\\mango.services.authapi\\models\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A360911E-FE18-407D-BB3C-7CB14AED2B1A}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\models\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A360911E-FE18-407D-BB3C-7CB14AED2B1A}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|d:\\study\\microservices\\microservices_learning\\mango\\mango.services.authapi\\models\\dto\\registrationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A360911E-FE18-407D-BB3C-7CB14AED2B1A}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\models\\dto\\registrationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A360911E-FE18-407D-BB3C-7CB14AED2B1A}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|d:\\study\\microservices\\microservices_learning\\mango\\mango.services.authapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A360911E-FE18-407D-BB3C-7CB14AED2B1A}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A360911E-FE18-407D-BB3C-7CB14AED2B1A}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|d:\\study\\microservices\\microservices_learning\\mango\\mango.services.authapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A360911E-FE18-407D-BB3C-7CB14AED2B1A}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A360911E-FE18-407D-BB3C-7CB14AED2B1A}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|d:\\study\\microservices\\microservices_learning\\mango\\mango.services.authapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A360911E-FE18-407D-BB3C-7CB14AED2B1A}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\study\\Microservices\\Microservices_Learning\\Mango\\Mango.Services.AuthAPI\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Service\\AuthService.cs",
+              "ToolTip": "D:\\study\\Microservices\\Microservices_Learning\\Mango\\Mango.Services.AuthAPI\\Service\\AuthService.cs",
+              "RelativeToolTip": "Mango.Services.AuthAPI\\Service\\AuthService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAWwBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:46:18.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\study\\Microservices\\Microservices_Learning\\Mango\\Mango.Services.AuthAPI\\Service\\IService\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Service\\IService\\IAuthService.cs",
+              "ToolTip": "D:\\study\\Microservices\\Microservices_Learning\\Mango\\Mango.Services.AuthAPI\\Service\\IService\\IAuthService.cs",
+              "RelativeToolTip": "Mango.Services.AuthAPI\\Service\\IService\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:41:59.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "D:\\study\\Microservices\\Microservices_Learning\\Mango\\Mango.Services.AuthAPI\\Models\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Models\\JwtOptions.cs",
+              "ToolTip": "D:\\study\\Microservices\\Microservices_Learning\\Mango\\Mango.Services.AuthAPI\\Models\\JwtOptions.cs",
+              "RelativeToolTip": "Mango.Services.AuthAPI\\Models\\JwtOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:33:32.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\study\\Microservices\\Microservices_Learning\\Mango\\Mango.Services.AuthAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\appsettings.json",
+              "ToolTip": "D:\\study\\Microservices\\Microservices_Learning\\Mango\\Mango.Services.AuthAPI\\appsettings.json",
+              "RelativeToolTip": "Mango.Services.AuthAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-18T15:30:53.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "D:\\study\\Microservices\\Microservices_Learning\\Mango\\Mango.Services.AuthAPI\\Models\\Dto\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Models\\Dto\\LoginResponseDto.cs",
+              "ToolTip": "D:\\study\\Microservices\\Microservices_Learning\\Mango\\Mango.Services.AuthAPI\\Models\\Dto\\LoginResponseDto.cs",
+              "RelativeToolTip": "Mango.Services.AuthAPI\\Models\\Dto\\LoginResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:28:15.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthAPIController.cs",
+              "DocumentMoniker": "D:\\study\\Microservices\\Microservices_Learning\\Mango\\Mango.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "ToolTip": "D:\\study\\Microservices\\Microservices_Learning\\Mango\\Mango.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "RelativeToolTip": "Mango.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwB8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:12:27.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\study\\Microservices\\Microservices_Learning\\Mango\\Mango.Services.AuthAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Program.cs",
+              "ToolTip": "D:\\study\\Microservices\\Microservices_Learning\\Mango\\Mango.Services.AuthAPI\\Program.cs",
+              "RelativeToolTip": "Mango.Services.AuthAPI\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:05:13.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "D:\\study\\Microservices\\Microservices_Learning\\Mango\\Mango.Services.AuthAPI\\Models\\Dto\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Models\\Dto\\LoginRequestDto.cs",
+              "ToolTip": "D:\\study\\Microservices\\Microservices_Learning\\Mango\\Mango.Services.AuthAPI\\Models\\Dto\\LoginRequestDto.cs",
+              "RelativeToolTip": "Mango.Services.AuthAPI\\Models\\Dto\\LoginRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:26:08.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegistrationRequestDto.cs",
+              "DocumentMoniker": "D:\\study\\Microservices\\Microservices_Learning\\Mango\\Mango.Services.AuthAPI\\Models\\Dto\\RegistrationRequestDto.cs",
+              "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Models\\Dto\\RegistrationRequestDto.cs",
+              "ToolTip": "D:\\study\\Microservices\\Microservices_Learning\\Mango\\Mango.Services.AuthAPI\\Models\\Dto\\RegistrationRequestDto.cs",
+              "RelativeToolTip": "Mango.Services.AuthAPI\\Models\\Dto\\RegistrationRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:24:07.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\study\\Microservices\\Microservices_Learning\\Mango\\Mango.Services.AuthAPI\\Models\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Models\\Dto\\UserDto.cs",
+              "ToolTip": "D:\\study\\Microservices\\Microservices_Learning\\Mango\\Mango.Services.AuthAPI\\Models\\Dto\\UserDto.cs",
+              "RelativeToolTip": "Mango.Services.AuthAPI\\Models\\Dto\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:21:59.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "D:\\study\\Microservices\\Microservices_Learning\\Mango\\Mango.Services.AuthAPI\\Models\\Dto\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Models\\Dto\\ResponseDto.cs",
+              "ToolTip": "D:\\study\\Microservices\\Microservices_Learning\\Mango\\Mango.Services.AuthAPI\\Models\\Dto\\ResponseDto.cs",
+              "RelativeToolTip": "Mango.Services.AuthAPI\\Models\\Dto\\ResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:19:17.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\study\\Microservices\\Microservices_Learning\\Mango\\Mango.Services.AuthAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\study\\Microservices\\Microservices_Learning\\Mango\\Mango.Services.AuthAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Mango.Services.AuthAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:04:13.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\study\\Microservices\\Microservices_Learning\\Mango\\Mango.Services.AuthAPI\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\study\\Microservices\\Microservices_Learning\\Mango\\Mango.Services.AuthAPI\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Mango.Services.AuthAPI\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:03:27.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
