@@ -139,3 +139,9 @@ D:\study\Microservices\Microservices_Learning\Mango\Mango.Services.ShoppingCartA
 D:\study\Microservices\Microservices_Learning\Mango\Mango.Services.ShoppingCartAPI\obj\Debug\net8.0\Mango.Services.ShoppingCartAPI.genruntimeconfig.cache
 D:\study\Microservices\Microservices_Learning\Mango\Mango.Services.ShoppingCartAPI\obj\Debug\net8.0\ref\Mango.Services.ShoppingCartAPI.dll
 D:\study\Microservices\Microservices_Learning\Mango\Mango.Services.ShoppingCartAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\study\Microservices\Microservices_Learning\Mango\Mango.Services.ShoppingCartAPI\bin\Debug\net8.0\Azure.Core.Amqp.dll
+D:\study\Microservices\Microservices_Learning\Mango\Mango.Services.ShoppingCartAPI\bin\Debug\net8.0\Azure.Messaging.ServiceBus.dll
+D:\study\Microservices\Microservices_Learning\Mango\Mango.Services.ShoppingCartAPI\bin\Debug\net8.0\Microsoft.Azure.Amqp.dll
+D:\study\Microservices\Microservices_Learning\Mango\Mango.Services.ShoppingCartAPI\bin\Debug\net8.0\System.ClientModel.dll
+D:\study\Microservices\Microservices_Learning\Mango\Mango.Services.ShoppingCartAPI\bin\Debug\net8.0\Mango.MessageBus.dll
+D:\study\Microservices\Microservices_Learning\Mango\Mango.Services.ShoppingCartAPI\bin\Debug\net8.0\Mango.MessageBus.pdb
