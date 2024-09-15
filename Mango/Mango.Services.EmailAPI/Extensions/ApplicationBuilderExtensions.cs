@@ -21,12 +21,12 @@ namespace Mango.Services.EmailAPI.Extensions
             return app; 
         }
 
-        private static void OnStop()
+        private static void OnStart()
         {
             ServiceBusConsumer.Start();
         }
 
-        private static void OnStart()
+        private static void OnStop()
         {
             ServiceBusConsumer.Stop();
         }
